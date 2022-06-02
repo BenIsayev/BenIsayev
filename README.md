@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react, docker, etc...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BenIsayev](https://github.com/BenIsayev)
+- 🔭 I’m currently looking for the next challenge.
 
 - 💬 Ask me about **Vue, React, Angular, Express, Node and more**
 
